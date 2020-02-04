@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972335738024",
+    "firebase_url": "https://database-77ab3.firebaseio.com",
+    "project_id": "database-77ab3",
+    "storage_bucket": "database-77ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972335738024:android:c6c9be8d2d1b921680e69d",
+        "android_client_info": {
+          "package_name": "pl.edu.agh.student.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972335738024-3idu4mingecaaqumspa13bhl1o2iu1mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdsX0lvNIloJJv7YsWijGMPzp3WwHnkuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972335738024-3idu4mingecaaqumspa13bhl1o2iu1mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

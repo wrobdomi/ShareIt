@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShareIt</string>
+
+    <string name="facebook_app_id">411674262860452</string>
+    <string name="fb_login_protocol_scheme">fb411674262860452</string>
+
+    <string name="login_activity_title">Logowanie</string>
+    <string name="register_activity_title">Rejestracja</string>
+    <string name="groups_activity_title">Twoje grupy zadań</string>
+
+    <string name="tasks_activity_todo">Current</string>
+    <string name="tasks_activity_done">Done</string>
+    <string name="tasks_activity_missed">Missed</string>
+</resources>

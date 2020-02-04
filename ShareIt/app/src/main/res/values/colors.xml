@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorHeader">#CCAE8F</color>
+    <color name="colorToolBar">#AA8763</color>
+    <color name="colorToolBarText">#FFFFFF</color>
+
+    <color name="colorBackgroundTopGradient">#CDA882</color>
+    <color name="colorBackgroundBottomGradient">#FBF0E4</color>
+
+    <color name="colorBodyText">#784A24</color>
+    <color name="colorBodyBrighter">#FBF0E4</color>
+    <color name="colorBodyDarker">#CDA882</color>
+
+    <color name="colorTimeLeftRed">#B22222</color> <!-- #8B0000 -->
+
+    <color name="colorBlack">#000000</color>
+</resources>
