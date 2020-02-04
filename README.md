@@ -1,6 +1,8 @@
 # ShareIt
 Android app for sharing responsibilities within social groups. 
 
+Group Project (@zyngjaku, @annagi98, @klaudiaa111)
+
 ![00](https://user-images.githubusercontent.com/37666186/73732989-703e6000-473b-11ea-84fb-f15baf5883e0.PNG)
 
 # Features
