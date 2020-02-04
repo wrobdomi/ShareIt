@@ -13,7 +13,7 @@ Group Project (@zyngjaku, @annagi98, @klaudiaa111)
  + Create task and assign it to any group member
  + Archive done tasks
 
-# Screenshots
+# Screens
   + Login and SignUp
   
 ![01](https://user-images.githubusercontent.com/37666186/73733170-c3181780-473b-11ea-8bce-ac7ad56d00d1.PNG) ![02](https://user-images.githubusercontent.com/37666186/73733202-d1663380-473b-11ea-8f5c-dc51ae18c7aa.PNG) 
